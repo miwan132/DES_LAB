@@ -15,3 +15,4 @@ Release/
 *-cache.lib
 _autosave-*
 fp-info-cache
+.history/
