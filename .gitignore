@@ -1,0 +1,17 @@
+# Microchip Studio
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.map
+*.lss
+*.cache
+
+# KiCad
+*.bak
+*.bck
+*-backups/
+*-cache.lib
+_autosave-*
+fp-info-cache
