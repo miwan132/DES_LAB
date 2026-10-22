@@ -41,7 +41,6 @@ int main(void)
 			uint8_t dec = j / 10;
 			uint8_t uni   = j % 10;
 
-			// Wyœwietlaj dan¹ liczbê przez 1 sekundê (100 * 10 ms = 1000 ms)
 			for (uint8_t i = 0; i < 100; i++)
 			{
 				PORTB &= ~((1 << PORTB0) | (1 << PORTB1));
