@@ -16,3 +16,7 @@ Release/
 _autosave-*
 fp-info-cache
 .history/
+
+# Visual Studio Code
+.vs/
+.vscode/
