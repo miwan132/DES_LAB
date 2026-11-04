@@ -126,4 +126,5 @@ int main(void)
 
 		uart_send(komunikat);
 	}
+
 }
