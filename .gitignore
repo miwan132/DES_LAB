@@ -17,7 +17,7 @@ build.ninja
 
 # KiCad
 *.bak
-*.lck
+*kicad_pro.lck
 *.bck
 *-backups/
 *-cache.lib
