@@ -1,0 +1,75 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/avr-gcc/lib/gcc/avr/16.1.0/include",
+						"C:/avr-gcc/lib/gcc/avr/16.1.0/include-fixed",
+						"C:/avr-gcc/avr/include"
+					],
+					"linkDirectories" : [],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : []
+				},
+				"path" : "C:/avr-gcc/bin/avr-gcc.exe",
+				"version" : "16.1.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/avr-gcc/lib/gcc/avr/16.1.0/include",
+						"C:/avr-gcc/lib/gcc/avr/16.1.0/include-fixed",
+						"C:/avr-gcc/avr/include"
+					],
+					"linkDirectories" : [],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : []
+				},
+				"path" : "C:/avr-gcc/bin/avr-g++.exe",
+				"version" : "16.1.0"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm",
+				"ccm",
+				"cxxm",
+				"c++m"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

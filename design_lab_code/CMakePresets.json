@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "configurePresets": [
+        {
+            "name": "avr-release",
+            "displayName": "AVR Release (Ninja)",
+            "generator": "Ninja",
+            "binaryDir": "${sourceDir}/build",
+            "toolchainFile": "${sourceDir}/cmake/avr-toolchain.cmake",
+            "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "Release",
+                "CMAKE_EXPORT_COMPILE_COMMANDS": "ON"
+            }
+        }
+    ]
+}
