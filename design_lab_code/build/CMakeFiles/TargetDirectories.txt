@@ -1,4 +1,0 @@
-C:/Users/bartek/Documents/Semestr_5/Design Lab/design_lab_code/build/CMakeFiles/atmega328pb_app.elf.dir
-C:/Users/bartek/Documents/Semestr_5/Design Lab/design_lab_code/build/CMakeFiles/flash.dir
-C:/Users/bartek/Documents/Semestr_5/Design Lab/design_lab_code/build/CMakeFiles/edit_cache.dir
-C:/Users/bartek/Documents/Semestr_5/Design Lab/design_lab_code/build/CMakeFiles/rebuild_cache.dir
