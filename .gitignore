@@ -1,12 +1,19 @@
-# Microchip Studio
-Debug/
-Release/
-*.o
-*.d
-*.elf
-*.map
-*.lss
-*.cache
+# CMake i Ninja
+build/
+out/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+build.ninja
+.ninja_deps
+.ninja_log
+
+# AVR
+*.hex
+*.eep
+*.srec
+*.bin
 
 # KiCad
 *.bak
